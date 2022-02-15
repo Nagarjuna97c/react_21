@@ -1,0 +1,39 @@
+.faq-item-container {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 5px;
+  padding: 10px;
+  box-shadow: 5px 10px #9aa5b1;
+}
+
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading1 {
+  font-size: 34px;
+  color: #52606d;
+}
+
+.button {
+  border: none;
+  outline: none;
+  padding: 2px;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+}
+
+.para {
+  font-size: 24px;
+  color: #9aa5b1;
+}
+
+hr {
+  color: blue;
+  background-color: #9aa5b1;
+  border: 1px solid #9aa5b1;
+}

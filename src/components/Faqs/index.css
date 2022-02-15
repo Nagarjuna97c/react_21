@@ -1,0 +1,22 @@
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 64px;
+  color: #cb8805;
+}
+
+.image {
+  color: #ffffff;
+}
+
+.faqs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
